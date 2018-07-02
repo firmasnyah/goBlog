@@ -1,0 +1,2 @@
+# goBlog
+E-JURNAL
